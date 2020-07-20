@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5e46cbd-4295-41cd-aa4a-b2dbf6135905" name="Default Changelist" comment="123">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -17,7 +29,67 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
+  <component name="ProjectId" id="1ewJb84GZwCXse6pkO5hpBtWEXe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5e46cbd-4295-41cd-aa4a-b2dbf6135905" name="Default Changelist" comment="" />
+      <created>1595226790202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595226790202</updated>
+      <workItem from="1595226792438" duration="1007000" />
+    </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1595227036344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595227036344</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1595226824537">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1595226824537" />
+    <state x="494" y="303" key="Github.CreateGistDialog" timestamp="1595226859096">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="494" y="303" key="Github.CreateGistDialog/0.0.1366.768@0.0.1366.768" timestamp="1595226859096" />
+    <state x="534" y="281" key="Github.ShareDialog" timestamp="1595226899158">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="534" y="281" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1595226899158" />
+    <state x="519" y="88" key="Github.UntrackedFilesDialog" timestamp="1595226913881">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="519" y="88" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1595226913881" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1595227302681">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1595227302681" />
   </component>
 </project>
