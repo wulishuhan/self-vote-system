@@ -1,0 +1,17 @@
+body{
+		background: 07url(./img/07.jpeg);
+	}
+	#tb{
+		background: none;
+		margin: 200px auto;
+		border: solid 2px white;
+		border-radius: 20px;
+		color: white;
+		width: 400px;
+		height: 300px;
+	}
+	input{
+		background: none;
+		color: white;
+	}
+	

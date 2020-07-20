@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS `voto` (
+  `id` int(10) NOT NULL auto_increment, //编号
+  `titleid` int(10) default NULL,	//titleID
+  `item` varchar(50) default NULL,	//投票项目
+  `count` int(10) default NULL,	//票数
+  PRIMARY KEY  (`id`)
+)ENGINE=InnoDB AUTO_INCREMENT=28 DEFAULT CHARSET=utf8;
+
+ 
+ "INSERT INTO vote VALUES ('24', '1', '张学友', '8');"
+ "INSERT INTO vote VALUES ('25', '1', '陈奕迅', '12');"
+ "INSERT INTO vote VALUES ('26', '1', '林俊杰', '12');"
+ "INSERT INTO vote VALUES ('27', '1', '萧敬腾', '23');"
+ 
+CREATE TABLE IF NOT EXISTS `votetitle` (
+  `titleid` int(10) NOT NULL,
+  `votetitle` varchar(50) default NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+INSERT INTO votetitle VALUES ('1', '您认为本网站还有那些要做调整？');

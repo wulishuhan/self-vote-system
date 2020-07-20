@@ -1,0 +1,11 @@
+body{
+		background: 03url(./img/03.jpg);
+	}
+	#fo{
+		
+		width: 500px;
+		margin: 200px auto;
+		color: white;
+		border: solid  2px white;
+		border-radius: 20px;
+	}
